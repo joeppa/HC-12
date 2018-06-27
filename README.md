@@ -7,6 +7,9 @@ Z-wave or Zigbee procotols are quiet nice, but it could be cheaper right? Thats 
 
 The intention is to command my Arduino uno r3 atmega328p+esp8266 via my smartphone, so that the wifi Arduino sends a signal via the HC-12 modules to the second Arduino that activates a relay to switch on a waterpump.
 
+![alt text](https://github.com/joeppa/HC-12/blob/master/Garden_bb.png)
+
+
 
 25-05-2018: I currently ordered all the parts so I have to wait.. Will be continued! 
 
