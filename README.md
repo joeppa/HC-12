@@ -13,8 +13,7 @@ The intention is to command my Arduino uno r3 atmega328p+esp8266 via my smartpho
 
 25-05-2018: I currently ordered all the parts so I have to wait..
 
-09-07-2018: Fixed the antennas for the HC-12 modules on the housings. 
-
+09-07-2018: Fixed the antennas for the HC-12 modules on the housings and still waiting for the remain parts. 
 ![alt text](https://github.com/joeppa/HC-12/blob/master/Housing.jpg)
 
-Greetings from The Netherlands!
+Will be continued, greetings from The Netherlands!
