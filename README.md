@@ -1,4 +1,4 @@
-# HC-12 SI4463 433mhz arduino wifi project 
+# HC-12 SI4463 433mhz arduino WiFi project 
 Hi! Nice that you're looking at this project! I have a bit of experience with domotica so every help is welcome to create a code!
 
 I want to command a waterpump for my drip irrigation system to water my plants via my smartphone with this setup, because there is no WiFi in my garden.
